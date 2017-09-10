@@ -1,0 +1,19 @@
+{
+  "name": "clapclap-fakeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --routes routes.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiuso/clapclap-fakeapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radiuso/clapclap-fakeapi/issues"
+  },
+  "homepage": "https://github.com/radiuso/clapclap-fakeapi#readme"
+}

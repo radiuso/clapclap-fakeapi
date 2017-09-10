@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "name": "test" }
+  ],
+  "subjects": [
+    { "id": 1, "label": "To eat", "color": "red" },
+    { "id": 2, "label": "Hollidays", "color": "yellow" }
+  ],
+  "possibilities": [
+    { "id": 1, "label": "Burger", "subject": 1 }
+  ]
+}
