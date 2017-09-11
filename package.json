@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/radiuso/clapclap-fakeapi/issues"
   },
-  "homepage": "https://github.com/radiuso/clapclap-fakeapi#readme"
+  "homepage": "https://github.com/radiuso/clapclap-fakeapi#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
